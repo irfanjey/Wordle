@@ -19,6 +19,9 @@ Winning: If you are able to guess the word correctly within 5 tries, a congratul
 How to Run
 ----------
 Clone this repository to your local machine.
+
 Ensure you have the necessary dependencies installed (e.g., Java).
+
 Compile and run the program.
+
 Follow the on-screen instructions to play Wordle Clone
