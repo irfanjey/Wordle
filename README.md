@@ -6,6 +6,7 @@ The objective of the game is to guess a secret five-letter word by submitting gu
 Gameplay
 --------------
 Guessing a Word: Type a valid word that consists of exactly 5 letters into the text field provided.
+
 Submitting Guess: Click the submit button to submit your guess.
 
 Feedback: After submitting a guess, the program will process the word and display it with each letter being colored either Grey, Green, or Yellow:
